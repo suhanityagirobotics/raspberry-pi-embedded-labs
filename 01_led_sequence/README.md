@@ -32,6 +32,6 @@ python3 led_sequence.py
 - Safe shutdown with exception handling and `GPIO.cleanup()`
 
 ## Photos
-![Circuit setup](Screenshot%202026-11-16%20215100.png)
-![LEDs lit](Screenshot%202026-11-16%20215111.png)
-![LEDs lit, close-up](Screenshot%202026-11-16%20215130.png)
+![Circuit setup](led_setup.png)
+![LEDs lit](led_lit_1.png)
+![LEDs lit, close-up](led_lit_2.png)
